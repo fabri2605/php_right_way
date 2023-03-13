@@ -1,0 +1,20 @@
+{
+  "name": "fabri2605/learnphptherightway-project",
+  "description": "Learning php & composer",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fabri",
+      "email": "fabridp77@gmail.com"
+    }
+  ],
+  "require": {
+    "ramsey/uuid": "^4.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
