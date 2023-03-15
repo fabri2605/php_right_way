@@ -5,7 +5,7 @@ declare(strict_types=1);
 
 require __DIR__ . '/../vendor/autoload.php';
 require '../app/Transaction.php';
-//new comment
+//new commentt
 // /var/www/html/learnphptherightway-project/ 
 $root = dirname(__DIR__) . DIRECTORY_SEPARATOR;
 define('APP_PATH', $root . 'app' . DIRECTORY_SEPARATOR);
